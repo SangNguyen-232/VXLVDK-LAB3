@@ -1,1 +1,1 @@
-LAB 1: LED Animations
+LAB 3: Buttons/Switches
